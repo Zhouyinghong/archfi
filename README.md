@@ -1,8 +1,9 @@
 # archfi
--------------------------------------------------- ----------------------------------
+
 个人用法：本人只需要用archfi来快速安装archlinux，亲测以下步骤：
     wget https://raw.githubusercontent.com/Zhouyinghong/archfi/master/archfi
-./archfi即可完成
+    ./archfi
+即可完成
 ------------------------------------------------------------------------------------
 Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 
